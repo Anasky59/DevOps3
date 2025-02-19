@@ -1,3 +1,5 @@
+![Tests](https://github.com/<Anasky59>/<DevOps3>/actions/workflows/test.yml/badge.svg)
+
 # DevOps Project
 
 Ce projet est destiné à valider les connaissances en DevOps des élèves de 3ème année d'informatique.
