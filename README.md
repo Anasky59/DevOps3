@@ -1,4 +1,12 @@
+# Mon Projet DevOps
+
 ![Tests](https://github.com/<Anasky59>/<DevOps3>/actions/workflows/test.yml/badge.svg)
+![License](https://img.shields.io/github/license/Anasky59/DevOps3)
+![Repo Size](https://img.shields.io/github/repo-size/Anasky59/DevOps3)
+![Deploy](https://img.shields.io/netlify/de78af7c-cfe2-4d93-914b-72ec5fafaaae)
+
+## Déploiement
+🔗 [Voir le site en ligne](https://illustrious-pegasus-58b48c.netlify.app/)
 
 # DevOps Project
 
